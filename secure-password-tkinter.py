@@ -24,3 +24,5 @@ status_label = tk.Label(root, text="")
 status_label.pack(pady=10)
 tk.Button(root, text="Copy to Clipboard", command=copy_to_clipboard).pack(pady=10)
 root.mainloop()
+
+# Random password generator
